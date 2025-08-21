@@ -1,0 +1,16 @@
+{
+    "learning_rate": 0.011009570946141774,
+    "weight_decay": 0.025711120186487718,
+    "batch_size": 2,
+    "rescale": true,
+    "normalize": false,
+    "SGD": false,
+    "pretrained_model_name": "nuclei",
+    "tune_split": 0.3,
+    "tune_indice_prop": 1.0,
+    "train_test_split": 0.8,
+    "train_indice_prop": 1.0,
+    "num_tune_trials": 10,
+    "total_runtime_seconds": 3075.9764788150787,
+    "run_datetime": "2025-08-15 00:47:32"
+}

@@ -1,0 +1,15 @@
+{
+    "learning_rate": null,
+    "weight_decay": null,
+    "batch_size": null,
+    "rescale": null,
+    "SGD": null,
+    "normalize": null,
+    "tune_split": 0.3,
+    "tune_indice_prop": 0.2,
+    "train_test_split": 0.95,
+    "train_indice_prop": 0.8,
+    "num_tune_trials": 1,
+    "total_runtime_seconds": 402.40076637268066,
+    "run_datetime": "2025-08-09 14:09:04"
+}

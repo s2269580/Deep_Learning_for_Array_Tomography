@@ -1,0 +1,15 @@
+{
+    "learning_rate": 0.00043192467534649507,
+    "weight_decay": 0.08647387112399087,
+    "step_size": 150,
+    "gamma": 0.15358582794854156,
+    "accumulation_steps": 2,
+    "max_prompts": 20,
+    "tune_split": 0.4,
+    "tune_indice_prop": 0.2,
+    "train_test_split": 0.85,
+    "train_indice_prop": 0.4,
+    "num_tune_trials": 5,
+    "total_runtime_seconds": 2765.4436354637146,
+    "run_datetime": "2025-08-11 14:23:29"
+}

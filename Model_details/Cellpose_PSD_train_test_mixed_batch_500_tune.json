@@ -1,0 +1,16 @@
+{
+    "learning_rate": 0.0010798324644116287,
+    "weight_decay": 0.005041201834949533,
+    "batch_size": 2,
+    "rescale": true,
+    "normalize": false,
+    "SGD": false,
+    "pretrained_model_name": "",
+    "tune_split": 0.4,
+    "tune_indice_prop": 1.0,
+    "train_test_split": 0.9,
+    "train_indice_prop": 0.8,
+    "num_tune_trials": 5,
+    "total_runtime_seconds": 1788.9927484989166,
+    "run_datetime": "2025-08-11 21:41:17"
+}

@@ -7,6 +7,8 @@ The system allows users to either retrain models or load pretrained ones via a c
 This design enables flexible model usage without modifying the core Python code.  
 Segmentation behavior can be adjusted through mode selection and parameter tuning, depending on the object type.
 
+
+
 ---
 
 ## ⚙️ Key Features
@@ -75,5 +77,6 @@ Each run produces five key outputs to support training transparency and post-run
 
 ## 🧪 Notes
 - Model training and evaluation depend on the balance and quality of input data across batches.  
-- Use the `train_test_mixed_batch` mode when combining batches with differing ground truths.  
+- Use the `train_test_mixed_batch` mode when combining batches with differing ground truths.
+- Models, Image and result CSV files not uploaded to Git to large size but will be made available directly to the lab
 
